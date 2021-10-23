@@ -1,2 +1,2 @@
-# coreJava
-practice for Java with Examples
+# coreJavaPractice
+Best Practice for Java with Examples
